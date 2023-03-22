@@ -1,4 +1,4 @@
-# Hackathons
+# PlebLab_Hackathons
 
 At PlebLab, we are committed to fostering innovation, cultivating communities, and supporting the growth of the Lightning Network through our annual hackathons. Each year, we organize and power a few hackathons that bring together developers, makers, and entrepreneurs to push the boundaries of what is possible with Bitcoin.
 
